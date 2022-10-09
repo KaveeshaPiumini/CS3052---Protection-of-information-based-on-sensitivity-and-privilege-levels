@@ -1,0 +1,5 @@
+patient,personal details,sickness details,drug prescriptions,lab test prescriptions
+patient_1,"Vaccinatiom - 3 vaccines, Allergies - Peach","BP-100/150, cough,fever,cold",,antigen test report
+patient_2,,sore throat,Aldactone A,report 1
+patient_3,Age - 24,,,lab report 2
+patient_4,,,Pition Tablet,
